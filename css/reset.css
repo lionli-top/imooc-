@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body,ul,li,h1,h2,h3,h4,p{margin: 0;}
+ul{list-style: none;padding:0;}
+a{text-decoration: none;color:inherit;outline: none;}
+input{outline: none;}
+li{line-height:1;}
+h1,h2,h3,h4{font-weight: normal;}
+button{outline: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
